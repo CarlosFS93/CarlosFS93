@@ -1,16 +1,9 @@
 ## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm [Carlos Fernández Sanz](https://github.com/CarlosFS93)!
 
-I'm a **Junior Data Scientist** with a background in **computational chemistry** and international research. After contributing to catalyst discovery through quantum chemistry and machine learning at Khalifa University, I transitioned into Data Science to solve broader, real-world problems using data.
+I'm a **Junior Data Scientist** with a background in **computational chemistry** and international academic research. I bring a scientific mindset, adaptability, and experience working in cross-functional, multicultural teams.
 
-I’ve designed and deployed ML pipelines using Python, scikit-learn, and TensorFlow on projects including traffic accident severity prediction (Spanish DGT data), medical diagnostics, and Airbnb rental analysis.
+Open to remote or on-site roles across Europe, where I can contribute to data-driven solutions with rigor and creativity.
 
-My current focus includes:
-- Applied ML with public and scientific datasets
-- Model explainability (e.g. SHAP, feature importance)
-- Interactive data apps with Streamlit and Flask
-- Reproducible, well-documented workflows
-
-I'm open to roles across Europe, remote or on-site, where I can contribute technical insight, scientific rigor, and a problem-solving mindset.
 
 
 <a href="https://www.linkedin.com/in/carlos-fernandez93/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:93carlosfs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
