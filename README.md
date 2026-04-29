@@ -1,6 +1,6 @@
 ## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm [Carlos Fernández Sanz](https://github.com/CarlosFS93)!
 
-I'm a **Data Scientist** skilled in **Machine Learning**, feature engineering, and data visualization using **Python**, **Pandas**, and **Streamlit**. Strong background 
+I'm a **AI Engineer** skilled in **Machine Learning**, feature engineering, and data visualization using **Python**, **Pandas**, and **Streamlit**. Strong background 
 in computational chemistry and international research.
 
 Open to remote or on-site roles across Europe, where I can contribute to data-driven solutions with rigor and creativity.
