@@ -1,7 +1,6 @@
 ## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm [Carlos Fernández Sanz](https://github.com/CarlosFS93)!
 
-I'm a **AI Engineer** skilled in **Machine Learning**, feature engineering, and data visualization using **Python**, **Pandas**, and **Streamlit**. Strong background 
-in computational chemistry and international research.
+Hello! I'm a **AI Engineer** specializing in LLM optimization, RAG pipelines, and autonomous AI agents. Proven experience designing and deploying end-to-end AI solutions using Python, LangChain, and Azure. Strong background in computational modeling and international research.
 
 Open to remote or on-site roles across Europe, where I can contribute to data-driven solutions with rigor and creativity.
 
